@@ -42,6 +42,14 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Application Preview
+
+### Resume Upload & Skill Extraction
+![Resume Analyzer](resume_analyzer_demo1.png)
+
+### ATS & Match Score Analysis
+![Resume Analysis Results](resume_analyzer_demo2.png)
+
 ## Author
 
 Mahnoor Khalid
